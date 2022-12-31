@@ -18,3 +18,17 @@
     <img align="center" alt="Wil-windows"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> 
     <img align="center" alt="Wil-linux"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"       />
 </div>
+  
+##
+  
+<div> 
+    <a href = "mailto:wi.willian99@hotmail.com">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=black" target="_blank">
+    </a>  
+    <a href="https://www.linkedin.com/in/willian-souza-948637144" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=sblack" target="_blank">
+    </a> 
+ 
+  ![Snake animation](https://github.com/Wil-macedo/Wil-macedo/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>

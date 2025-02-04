@@ -1,7 +1,11 @@
 ### Olá, eu sou o Willian 👋
 
-- 🔭 Atualmente trabalho com o desenvolvimento de máquinas.
-- ⚡ Estudante de Engenharia Elétrica ⚡ 
+- ⚡ Engenheiro eletricista. 
+- 🖥️ Desenvolvimento de Software.
+- 🗄️ Bancos de Dados & APIs.
+- 🚀 DevOps & Deploy.
+- 🤖 Inteligência Artificial.
+- 🏭 Indústria 4.0.
 
 <div align="center">
   <a href="https://github.com/Wil-macedo">

@@ -2,7 +2,9 @@
 
 # 👋 Olá! Eu sou Willian Macedo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Engenheiro+Eletricista;Desenvolvedor+Full+Stack;Especialista+em+IA+%26+Machine+Learning;Big+Data+%26+Data+Science;Agentes+de+IA+%26+Automação)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Engenheiro+Eletricista;Desenvolvedor+PYTHON;Big+Data+%26+Data+Science;Agentes+de+IA+%26+Automa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,21 +13,18 @@
 ## 🚀 Sobre Mim
 
 🎓 **Engenheiro Eletricista** com forte atuação em tecnologia e inovação
-💻 **Desenvolvedor** apaixonado por soluções inteligentes e escaláveis
-🤖 **Especialista em IA** com foco em agentes inteligentes e automação
+💻 **Desenvolvedor PYTHON** apaixonado por soluções inteligentes e escaláveis
+🤖 Foco em agentes inteligentes e automação
 📊 **Data Scientist** trabalhando com Big Data e Machine Learning
-🏭 **Indústria 4.0** aplicando IoT e sistemas embarcados
+🏭 **Indústria 4.0** aplicando IoT e automação industrial
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Linguagens & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🤖 IA & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -36,12 +35,10 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### 📊 Bancos de Dados & Big Data
+### 📊 Bancos de Dados & Message Broker
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -72,10 +69,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wil-macedo&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wil-macedo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
@@ -91,6 +84,27 @@
 
 ---
 
+## 🤖 Coding Robot
+
+<div align="center">
+
+```
+       ╔═══╗
+       ║ ◉ ║  < Olá!
+       ╚═╤═╝
+    ╔════╧════╗
+    ║         ║
+    ║         ║
+    ╚═╤═══╤═══╝
+      │   │
+    ╔═╧═╗ ╔═╧═╗
+    ║   ║ ║   ║
+```
+
+</div>
+
+---
+
 ## 💼 Áreas de Expertise
 
 <div align="center">
@@ -98,8 +112,8 @@
 | 🤖 Inteligência Artificial | 📊 Data Science | 🏭 Indústria 4.0 |
 |:---:|:---:|:---:|
 | Agentes de IA | Big Data Analytics | IoT & Automação |
-| Machine Learning | Data Engineering | Sistemas Embarcados |
-| Deep Learning | Data Visualization | SCADA & PLC |
+| Machine Learning | Data Engineering | SCADA & PLC |
+| Deep Learning | Data Visualization | Controle Industrial |
 | NLP & LLMs | ETL Pipelines | Sensores & Atuadores |
 
 </div>
@@ -121,7 +135,5 @@
 <div align="center">
 
 ### 💡 "Transformando dados em insights e ideias em soluções inteligentes"
-
-![Profile Views](https://komarev.com/ghpvc/?username=wil-macedo&color=6C63FF&style=for-the-badge&label=Visitantes)
 
 </div>
